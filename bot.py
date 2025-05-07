@@ -375,7 +375,7 @@ async def check_and_send_reminders(context: ContextTypes.DEFAULT_TYPE):
 # Основная функция
 def main():
     # Токен вашего бота (получите его у @BotFather в Telegram)
-    TOKEN = "8098518856:AAE5OzO043koq5HUWx53f632DSvMzpoSZWY"
+    TOKEN = "8098518856:AAEf4Y1vZLoQq8S_hW2Gd1OxscIVf2TxXgw"
     
     # Создаем приложение
     application = Application.builder().token(TOKEN).build()
